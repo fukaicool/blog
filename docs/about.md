@@ -4,8 +4,8 @@
 
 这里主要记录：
 
-- Web 前端开发
-- Node.js 和 Vue
+- Web 前后端开发
+- Node.js 和 Angular
 - AI 与新技术
 - 个人学习和生活
 
